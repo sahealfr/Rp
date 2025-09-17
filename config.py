@@ -2,8 +2,8 @@
 # --- Edit these values before running ---
 
 # Telegram Bot settings
-BOT_TOKEN = "Your bot token here"
-ADMIN_ID = Your admin id here
+BOT_TOKEN = "8211529438:AAEVd7hMXOGNjeduMBU4q3GXxTb220eyW2o"
+ADMIN_ID = 1051769628
 GROUP_ID = -Your Group id here
 CHANNEL_LINK = "Your link here"
 
